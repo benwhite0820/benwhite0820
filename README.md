@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">a frontend developer who loves coding!</h3>
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **node.js**
 
-- 🤔 next learning target : **node.js, mongoDB, aws, CI/CD, docker**
+- 🤔 next learning target : **mongoDB, aws, CI/CD, docker**
 
 - 📢 I can speak **Mandarin, Japanese, English**
 
